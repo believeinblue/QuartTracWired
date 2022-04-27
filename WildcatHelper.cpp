@@ -15,6 +15,8 @@ EVT_BUTTON(BUTTON_start_recording, MyFrame::Event_start_recording)
 //button event for end recording
 EVT_BUTTON(BUTTON_end_recording, MyFrame::Event_end_recording)
 //end event list
+EVT_TIMER(Timer, Update)
+
 wxEND_EVENT_TABLE()
 //application definition
 wxIMPLEMENT_APP(MyApp);

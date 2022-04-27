@@ -101,4 +101,63 @@ enum
     TEXT_G10MAX = wxID_HIGHEST + 54,
     TEXT_G10CUR = wxID_HIGHEST + 55,
     TEXT_G10TITLE = wxID_HIGHEST + 56,
+
+    //IDS for the gauge 11 textboxes
+    TEXT_G11MIN = wxID_HIGHEST + 57,
+    TEXT_G11MAX = wxID_HIGHEST + 58,
+    TEXT_G11CUR = wxID_HIGHEST + 59,
+    TEXT_G11TITLE = wxID_HIGHEST + 60,
+
+    //IDS for the gauge 12 textboxes
+    TEXT_G12MIN = wxID_HIGHEST + 61,
+    TEXT_G12MAX = wxID_HIGHEST + 62,
+    TEXT_G12CUR = wxID_HIGHEST + 63,
+    TEXT_G12TITLE = wxID_HIGHEST + 64,
+
+    //IDS for the gauge 13 textboxes
+    TEXT_G13MIN = wxID_HIGHEST + 65,
+    TEXT_G13MAX = wxID_HIGHEST + 66,
+    TEXT_G13CUR = wxID_HIGHEST + 67,
+    TEXT_G13TITLE = wxID_HIGHEST + 68,
+
+    //IDS for the gauge 14 textboxes
+    TEXT_G14MIN = wxID_HIGHEST + 69,
+    TEXT_G14MAX = wxID_HIGHEST + 70,
+    TEXT_G14CUR = wxID_HIGHEST + 71,
+    TEXT_G14TITLE = wxID_HIGHEST + 72,
+
+    //IDS for the gauge 15 textboxes
+    TEXT_G15MIN = wxID_HIGHEST + 73,
+    TEXT_G15MAX = wxID_HIGHEST + 74,
+    TEXT_G15CUR = wxID_HIGHEST + 75,
+    TEXT_G15TITLE = wxID_HIGHEST + 76,
+
+    //IDS for the gauge 16 textboxes
+    TEXT_G16MIN = wxID_HIGHEST + 77,
+    TEXT_G16MAX = wxID_HIGHEST + 78,
+    TEXT_G16CUR = wxID_HIGHEST + 79,
+    TEXT_G16TITLE = wxID_HIGHEST + 80,
+
+    //IDS for the gauge 17 textboxes
+    TEXT_G17MIN = wxID_HIGHEST + 81,
+    TEXT_G17MAX = wxID_HIGHEST + 82,
+    TEXT_G17CUR = wxID_HIGHEST + 83,
+    TEXT_G17TITLE = wxID_HIGHEST + 84,
+
+    //IDS for the gauge 18 textboxes
+    TEXT_G18MIN = wxID_HIGHEST + 85,
+    TEXT_G18MAX = wxID_HIGHEST + 86,
+    TEXT_G18CUR = wxID_HIGHEST + 87,
+    TEXT_G18TITLE = wxID_HIGHEST + 88,
+
+    Timer = wxID_HIGHEST + 89,
+
+    Gauge11 = wxID_HIGHEST + 90,
+    Gauge12 = wxID_HIGHEST + 91,
+    Gauge13 = wxID_HIGHEST + 92,
+    Gauge14 = wxID_HIGHEST + 93,
+    Gauge15 = wxID_HIGHEST + 94,
+    Gauge16 = wxID_HIGHEST + 95,
+    Gauge17 = wxID_HIGHEST + 96,
+    Gauge18 = wxID_HIGHEST + 97,
 };
